@@ -1,5 +1,5 @@
 # Juwel-Smart-Feed-2.0---ESP32-hack
-# Krmitko – smart automatic feeder
+
 
 Brain transplantation for an automatic pet feeder to make it really smart. The original control board is replaced with an ESP32-C3 running ESPHome, so the feeder can be controlled from Home Assistant while the physical buttons keep working.
 
