@@ -23,7 +23,8 @@ Brain transplantation for an automatic pet feeder to make it really smart. The o
 7. Connect a wire from the **IR gate LED cathode** to ESP **GPIO 2**.
 8. Connect a wire from the **IR gate emitter pull-up resistor** to ESP **GPIO 3**.
 9. Connect a wire from resistor **R10** (motor driver) to ESP **GPIO 1**.
-10. Create a new ESPHome device and add the code below under the `captive_portal:` line.
+10. Connect wire from board USB 5V to 5V input in your ESP board.
+11. Create a new ESPHome device and add the code below under the `captive_portal:` line.
 
 <!-- ![Wiring](images/wiring.jpg) -->
 
